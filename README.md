@@ -1,5 +1,8 @@
 # GCHPy
 
+Moved to GCST repo https://bitbucket.org/gcst/gcpy for joint development.
+This repo is kept for record and perhaps for personal use.
+
 A comprehensive python tool for the GEOS-Chem High-Performance (GCHP), 
 with the focus on: <br />
 
